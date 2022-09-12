@@ -1,0 +1,26 @@
+body{
+    background:#C0C0C0;
+    font-family: 'Playfair Display', Arial, Verdana;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-family: 'Playfair Display', Arial, Verdana;
+    text-align: center;
+}
+
+.img{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
